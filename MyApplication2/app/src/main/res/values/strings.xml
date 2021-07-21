@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_accont">Create Accont</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="flat_app">FLAT APP</string>
+    <string name="get_started">Get Started</string>
+</resources>

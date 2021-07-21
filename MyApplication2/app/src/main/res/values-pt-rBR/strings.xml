@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu Aplocativo</string>
+    <string name="create_accont">Criar Conta</string>
+    <string name="forgot_password">Esqueci a Senha</string>
+    <string name="flat_app">FLAT APP</string>
+    <string name="get_started">Vamos Começar</string>
+</resources>
